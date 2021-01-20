@@ -48,3 +48,8 @@
     This script generates a html page that contains all download links for lecture-specific data.
     Use the base-url of a lecture in ADAM e.g. `https://adam.unibas.ch/goto_adam_crs_910690.html` 
     for the Scientific-Computing lecture
+    
+## TODOs
+- Exercise Support
+- Automated Download
+- ...
