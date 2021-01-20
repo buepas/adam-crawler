@@ -3,6 +3,8 @@
 - [pip](https://pypi.org/project/pip/)
 - [python3.8](https://www.python.org/downloads/release/python-380/)
 - [virtualenv](https://pypi.org/project/virtualenv/)
+- selenium
+- firefox
 ##  Setup
 1. Clone the repository:
 
